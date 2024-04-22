@@ -12,3 +12,4 @@ Radar chart -
 
 Rose chart -
 
+![Nightingale's Rose](https://github.com/AntoniArla97/infografias.io/assets/63235931/4a08aaed-2496-47b0-8ffa-a7cb88c6cc26)
